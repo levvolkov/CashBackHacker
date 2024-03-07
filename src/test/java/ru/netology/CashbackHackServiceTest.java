@@ -7,7 +7,6 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class CashbackHackServiceTest {
 
-
     @Test
     public void testShouldAmount500() {
         CashbackHackService service = new CashbackHackService();
