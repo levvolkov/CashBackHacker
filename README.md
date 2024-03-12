@@ -6,12 +6,12 @@
 
 Все задачи этого занятия нужно делать **в одном репозитории**.
 
-**Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](../report-requirements.md).
+**Важно**: если у вас что-то не получилось, то оформляйте Issue [по установленным правилам](https://github.com/netology-code/aqa-homeworks/blob/master/report-requirements.md).
 
 ## Как сдавать задачи
 
 1. Инициализируйте на своём компьютере пустой Git-репозиторий.
-1. Добавьте в него готовый файл [.gitignore](../.gitignore).
+1. Добавьте в него готовый файл [.gitignore](https://github.com/netology-code/aqa-homeworks/blob/master/.gitignore).
 1. Добавьте в этот же каталог код вашего приложения.
 1. Сделайте необходимые коммиты.
 1. Создайте публичный репозиторий на GitHub и свяжите свой локальный репозиторий с удалённым. Не забудьте настроить CI на ветках или PR.
@@ -45,7 +45,7 @@ public class CashbackHackService {
 
 Вам нужно создать проект на базе Gradle, как на лекции, не добавляя в него внешних зависимостей.
 
-Выложите полученный проект на GitHub. Не забудьте о файле [.gitignore](../.gitignore). Подключите GitHub Actions. Можете воспользоваться [примером файла](./gradle.yml) для конфигурации gradle-сборки в Github Actions.
+Выложите полученный проект на GitHub. Не забудьте о файле [.gitignore](https://github.com/netology-code/aqa-homeworks/blob/master/.gitignore). Подключите GitHub Actions. Можете воспользоваться [примером файла](https://github.com/netology-code/aqa-homeworks/blob/master/basics/gradle.yml) для конфигурации gradle-сборки в Github Actions.
 
 ### Легенда
 
@@ -129,7 +129,7 @@ test {
 
 ### Об ошибках
 
-В сервисе точно есть ошибка, поэтому один из ваших автотестов должен падать. На обнаруженный дефект должен быть оформлен репорт [по установленным правилам](../report-requirements.md) 
+В сервисе точно есть ошибка, поэтому один из ваших автотестов должен падать. На обнаруженный дефект должен быть оформлен репорт [по установленным правилам](https://github.com/netology-code/aqa-homeworks/blob/master/report-requirements.md) 
 
 <details>
     <summary>Подсказка</summary>
