@@ -1,6 +1,6 @@
 # 1. Домашнее задание к занятию «1.1. Основы автоматизации»
 
-[Инструкция по созданию нового проекта](project_creation)
+[Инструкция по созданию нового проекта](https://github.com/netology-code/aqa-homeworks/tree/master/basics/project_creation)
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
 
